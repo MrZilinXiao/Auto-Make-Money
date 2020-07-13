@@ -48,7 +48,7 @@ class EastSpider(BaseSpider):
         today_list = []
         for stock in r_list:
             if stock['STARTDATE'].split('T')[0] == today_str:
-                today_list.append([stock['BONDCODE'], stock['SNAME']])
+                today_list.append([stock['CORRESCODE'], stock['SNAME']])
         return today_list
 
     def _get_token(self) -> str:
