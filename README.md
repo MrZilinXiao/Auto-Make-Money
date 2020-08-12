@@ -1,6 +1,6 @@
 # Auto-Make-Money
  An easy tool to help investors from SH&SZ Stock Market to apply for convertible bonds automatically.
-
+Blog written in Chinese: https://mrxiao.net/kzz-auto.html
 
 
 *Attention: Since this is for Chinese investors, instructions below were all written in Simplified Chinese.*
@@ -17,6 +17,7 @@
 同时客户端不能最小化也不能处于精简模式；
 
 **注意：请安装VNC进行远程控制，原生远程桌面在断开连接一段时间后桌面会休眠，导致pywin32找不到窗口。**
+
 
 1. 登录同花顺，打开委托平台，登录，按上述调整设置；
 2. 在config.py中配置xiadan.exe的路径，一般在同花顺可执行文件同目录下；
