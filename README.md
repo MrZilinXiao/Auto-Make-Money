@@ -5,6 +5,9 @@ Blog written in Chinese: https://mrxiao.net/kzz-auto.html
 
 *Attention: Since this is for Chinese investors, instructions below were all written in Simplified Chinese.*
 
+**注意，2020年10月22日更新，近日收到银河证券通知，“自2020年10月26日起，未签署《风险揭示书》的普通投资者，无法通过我司进行申购或买入可转债，已持有相关可转债的投资者可以选择继续持有、转股、回售或者卖出。”，应为证监会强制要求，请各位注意接听券商提醒来电。**
+
+**经我了解，自2020年4月28日开始正式实施创业板新规定，要求个人投资者必须满足两年的A股交易经验，且需前20个交易日日均资产不少于10万元，先前已开通创业板账户权限不受影响；这样一来，之前未开通创业板权限且不符合新条件的投资者将无法参与创业板可转债打新，请悉知。**
 
 
 ### 部署 & 使用
