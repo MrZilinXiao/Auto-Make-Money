@@ -17,7 +17,7 @@ def job():
         if not today_kzz_list:
             raise ValueError("今日没有可申购的可转债")
         for stock_id, name in today_kzz_list:
-            push_message += ths_trader.buy(stock_id, 100, 10000) + '\n'
+            push_message += str(ths_trader.buy(stock_id, 100, 10000)) + '\n'
     except Exception as e:
         push_message += str(e)
     finally:
