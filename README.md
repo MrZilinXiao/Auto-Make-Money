@@ -1,5 +1,5 @@
 # Auto-Make-Money
- An easy tool to help investors from SH&SZ Stock Market to apply for convertible bonds automatically.
+An easy tool to help investors from SH&SZ Stock Market to apply for convertible bonds automatically.
 Blog written in Chinese: https://mrxiao.net/kzz-auto.html
 
 
@@ -19,7 +19,9 @@ Blog written in Chinese: https://mrxiao.net/kzz-auto.html
 
 同时客户端不能最小化也不能处于精简模式；
 
-**注意：请安装VNC进行远程控制，原生远程桌面在断开连接一段时间后桌面会休眠，导致pywin32找不到窗口。**
+**注意：请安装VNC进行远程控制，原生远程桌面在断开连接一段时间后桌面会休眠，导致pywinauto找不到窗口。**
+
+**2021年01月20日更新: 新发现了不需要通过第三方远控软件保持桌面活跃的方法，详见[《Windows服务器 断开远程桌面RDP后保持桌面活跃(active)的方法》](https://mrxiao.net/disconnect-rdp-keep-windows-desktop-active.html)。**
 
 
 1. 登录同花顺，打开委托平台，登录，按上述调整设置；
