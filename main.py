@@ -30,7 +30,7 @@ if __name__ == '__main__':
     if sys.argv[1] == 'cron':
         scheduler = BlockingScheduler()
         # scheduler.add_job(job, 'interval', seconds=10)
-        scheduler.add_job(job, 'cron', day_of_week='1-5', hour=9, minute=35)
+        scheduler.add_job(job, 'cron', day_of_week='0-6', hour=9, minute=35)
         scheduler.start()
     elif sys.argv[1] == 'test':
         job()
