@@ -111,4 +111,4 @@ class EastSpider(BaseSpider):
 
 if __name__ == '__main__':
     spider = EastSpider()
-    print(spider.get_today_list())
+    print(spider.get_list())
