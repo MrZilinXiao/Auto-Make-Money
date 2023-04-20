@@ -1,6 +1,5 @@
 # Auto-Make-Money
 An easy tool to help investors from Shanghai/Shenzhen Stock Market to apply for new-listed convertible bonds automatically.
-Blog written in Chinese: [Click Here](https://mrxiao.net/kzz-auto.html)
 
 *Attention: Since this is for Chinese investors, instructions below were all written in **Simplified Chinese.***
 
@@ -18,10 +17,6 @@ Blog written in Chinese: [Click Here](https://mrxiao.net/kzz-auto.html)
 - 系统设置 > 交易设置: 默认买入价格/买入数量/卖出价格/卖出数量 都设置为 空
 
 同时客户端**不能最小化也不能处于精简模式**；
-
-**注意：对没有实体显示器的云服务器用户，可以参考以下方法保持桌面活跃；原生远程桌面在断开连接一段时间后桌面会休眠，导致pywinauto找不到窗口。**
-
-**2021年01月20日更新: 新发现了不需要通过第三方远控软件保持桌面活跃的方法，详见[《Windows服务器 断开远程桌面RDP后保持桌面活跃(active)的方法》](https://mrxiao.net/disconnect-rdp-keep-windows-desktop-active.html)。**
 
 ### 使用步骤
 1. 登录同花顺，打开委托平台，登录，按上述调整设置；
